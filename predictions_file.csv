@@ -1,0 +1,11 @@
+id,text,class,confidence score
+1,amendment 1 date february 4 2016 amendment 1 amendment restatement agreement date january 10 2016 exist restatement agreement among ggg hold u inc borrower cgg societe anonyme incorporate law france parent lender time time party thereto suisse ag administrative agent lender capacity administrative agent collateral agent collateral agent lender,Preamble,0.6666666666666666
+2,subject legal reservation choice law specify eachfinance document govern law finance document recognize enforced relevant jurisdiction andb judgment obtain new york jurisdiction govern law finance document relation finance document recognize enforced relevant jurisdiction,Governing Law,0.6666666666666666
+3,agreement noncontractual obligation arise connection shall govern construe accordance english law,Governing Law,0.8666666666666667
+4,lender agree indemnify administrative agent hold harmless rateably accord applicable percentage loss claim damage liability related expense include fee charge disbursement counsel may incur assert administrative agent way relate arise loan document transaction therein contemplate,Indemnification,0.8
+5,lender fail fund portion loan within two business day date loan require funded hereunder b notify borrower administrative agent write intend comply funding obligation hereunder c fail within three business day write request administrative agent company,Other,0.4
+6,assignment assumption shall govern construe accordance law govern credit agreement,Governing Law,0.7333333333333333
+7,soon practicable payment indemnify tax tax obligor governmental authority obligor shall deliver administrative agent original certify copy receipt issue governmental authority evidence payment copy return report payment evidence payment reasonably satisfactory administrative agent,Indemnification,0.6
+8,nondefaulting lender mean time lender default lender time,Lender Defaulting,0.8
+9,fundco facility agreement mean facility agreement date date agreement make fundco initial lender define fundco facility agreement include borrower devco,Other,0.4
+10,notwithstanding provision agreement contrary lender become default lender full extent permit applicable law follow provision shall apply long lender default lender,Lender Defaulting,0.6666666666666666
